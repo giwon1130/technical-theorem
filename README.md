@@ -1,4 +1,7 @@
+참고 : https://github.com/gyoogle/tech-interview-for-developer
+
 # 내가 필요한 기술정리(참고자료 수정예정)
+
 ### 개발자 전공 지식 & 기술 면접 백과사전
 
 ## 📌 Computer Science
